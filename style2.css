@@ -1,0 +1,155 @@
+.contener{
+	width: 80%;
+	height: 50px;
+	margin:0 auto;
+}
+.topNav{
+	width: 80%px;
+	height: 50px;
+	background-color: blue;
+	margin:0 auto;
+}
+
+.navbar-brand,.navbar-nav{
+	color:white;
+}
+
+#dropdownMenuButton{
+	color:white;
+	opacity: 0.7;
+}
+
+.aside{
+	margin:0 auto;
+	height: 900px;
+	background-color: rgb(40,54,67);
+	padding: 0px;
+}
+.aside button{
+	background-color: rgb(40,54,67);
+	color:white;
+	border:0px;
+	margin:0px;
+	height: 50px;
+	padding-left: 20px;
+	font-size: 20px;
+}
+
+.aside button a{
+	color:white;
+	text-decoration:none;
+}
+
+.aside button:hover{
+	background-color: rgb(60,66,72);
+	color:white;
+}
+
+.arcNav{
+	height: 50px;
+	padding-top:20px;
+	padding-left: 20px;
+	background-color: rgb(233,236,239);
+
+}
+.article{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.aside,.article{
+	float: left;
+}
+
+.domainContent{
+	margin-top:20px;
+	margin-left:20px;
+	color: white;
+	float: left;
+	height: 150px;
+	border-radius:10px;
+	padding-top:20px;
+	padding-left: 20px;
+}
+
+#divContent1{
+	background-color: green;
+}
+
+#divContent2{
+	background-color: blue;
+}
+
+#divContent3{
+	background-color: yellow;
+}
+
+.firstFont1{
+	font-size: 20px;
+}
+
+.firstFont2{
+	font-size: 50px;
+}
+
+#firstRow{
+	margin-top:20px;
+}
+
+.row{
+	padding: 0px;
+	margin-left: 0px;
+	margin-right:0px;
+	height: 50px; 
+	line-height: 50px;
+	margin-top:0px;
+}
+.rowContent{
+	border: 1px gray solid;
+	float: left;
+	height: 50px;
+	line-height: 50px;
+	font-size: 12px;
+}
+.jumpBtn{
+	padding-right: 0px;
+	margin-top:10px;
+}
+.jumpBtn div{
+	width: 80px;
+	height: 30px;
+	line-height: 30px;
+	float: right;
+	border: 1px gray solid;
+	text-align: center;
+}
+
+.find{
+	float: left;
+	margin-left: 0px;
+}
+
+.navData{
+	border-bottom: 1px gray solid;
+	float:left;
+	line-height: 50px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.featurePlace{
+	border: 0px;
+	float:left;
+	margin-bottom: 20px;
+	height: 50px;
+	float: left;
+}
+
+.navDataTip{
+	text-align:left;
+	padding-left:10px;
+	margin-left: 20px;
+}
+
+.article>div{
+	float: left;
+}
